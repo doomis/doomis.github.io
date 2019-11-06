@@ -21,19 +21,23 @@ The plan is to document procedures and processes as I go along.  Normally I take
 
 *TODO*
 
-### 2. Documenting Whonix on Proxmox VE
+### 3. Documenting Whonix on Proxmox VE
 
 *TODO*
 
-### 3. Documenting Freedombox
+### 4. Documenting Freedombox
 
 *TODO*
 
-### 4. Documenting Matrix-Synapse
+### 5. Documenting Matrix-Synapse
 
 *TODO*
 
-### 5. Documenting RetroShare
+### 6. Documenting Secure Scuttlebutt
+
+*TODO*
+
+### 7. Documenting RetroShare
 
 *TODO*
 
