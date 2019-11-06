@@ -8,7 +8,7 @@ folder: doomis
 ---
 ## Doom.is Documentation Overview
 
-[Doom.is](https://doom.is) is a documentation project focused on providing help for people setting up resilient technical systems.  This section is dedicated to describing how [doom.is](https://doom.is) *itself* was created, and how you can use this website, and its underlying tools to add and improve more documentation for the community.
+[Doom.is](/) is a documentation project focused on providing help for people setting up resilient technical systems.  This section is dedicated to describing how [doom.is](/) *itself* was created, and how you can use this website, and its underlying tools to add and improve more documentation for the community.
 
 ### Services
 
@@ -16,7 +16,7 @@ This website uses two clearnet[^1] service providers.  The first is [Njalla](htt
 
 We cover more about these services, and how we use them, in the Services docs.
 
-[^1]: clearnet is a term for the *normal internet*, i.e. services that can be reached from a standard web browser.  This distinction will be more important and apparent later, as [doom.is](https://doom.is) is one of the few clearnet services covered here.
+[^1]: clearnet is a term for the *normal internet*, i.e. services that can be reached from a standard web browser.  This distinction will be more important and apparent later, as [doom.is](/) is one of the few clearnet services covered here.
 [^2]: anonymous services disconnect data you create or use from your identity, location, or other metadata about you (or me).  Metadata is being weaponized, cataloged, and shared at ever increasing rates, and the value-add of anonymous and pseudonymous services and technology applications is covered in some detail here.
 
 ### Software
