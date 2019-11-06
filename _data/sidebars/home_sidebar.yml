@@ -9,7 +9,7 @@ entries:
     folderitems:
 
     - title: Getting Started
-    url: /index.html
+      url: /index.html
 
   - title: Products
     output: web
