@@ -21,7 +21,7 @@ entries:
     folderitems:
 
     - title: The Basics
-      url: /
+      url: /basics_intro.html
       output: web
 
     - title: Building Blocks

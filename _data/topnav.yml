@@ -12,13 +12,11 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Products
+    - title: Knowledge
       folderitems:
-        - title: Doom.is Documentation
+        - title: The Basics
+          url: /basics_intro.html
+        - title: Building Blocks
+          url: /
+        - title: Writing Docs
           url: /docs.html
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
