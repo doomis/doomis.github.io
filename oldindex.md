@@ -3,7 +3,7 @@ title: "Getting Started with Doom.is"
 keywords: doom homepage
 tags: [getting_started]
 sidebar: home_sidebar
-permalink: index.html
+permalink: oldindex.html
 toc: false
 ---
 

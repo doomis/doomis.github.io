@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to doom.is!"
-categories: doom update
+categories: news doom update
 permalink: 2019-11-05-first-post.html
 tags: [news]
 ---

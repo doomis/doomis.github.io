@@ -21,7 +21,7 @@ entries:
       output: web
 
     - title: Doom.is Documentation
-      url: /doomis.html
+      url: /docs.html
       output: web
 
     - title: Theme instructions

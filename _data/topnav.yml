@@ -15,7 +15,7 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: Doom.is Documentation
-          url: /doomis.html
+          url: /docs.html
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
         - title: Product 1

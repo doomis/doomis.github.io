@@ -1,6 +1,6 @@
 ---
 title:  "Doom.is Created"
-categories: doom update
+categories: news doom update
 permalink: 2019-11-04-doomis-created.html
 tags: [news]
 ---

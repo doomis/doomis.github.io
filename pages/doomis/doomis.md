@@ -3,7 +3,7 @@ title: doom.is
 keywords: doom
 sidebar: doomis_sidebar
 toc: false
-permalink: doomis.html
+permalink: docs.html
 folder: doomis
 ---
 ## Doom.is Documentation Overview

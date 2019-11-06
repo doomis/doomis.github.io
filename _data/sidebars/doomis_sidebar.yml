@@ -11,7 +11,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /doomis.html
+      url: /docs.html
       output: web
 
   - title: Simple Workflow

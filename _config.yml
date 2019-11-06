@@ -107,7 +107,6 @@ sidebars:
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
-- other
 
 description: "Documentation for Resilience"
 # the description is used in the feed.xml file
