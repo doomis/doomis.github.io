@@ -3,13 +3,13 @@ repository: doomis/doomis.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: doom.is Documentation Bootstrap
+topnav_title: doom.is
 # this appears on the top navigation bar next to the home button
 
-site_title: doom.is.here
+site_title: doom.is
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Harbinger's Productions
+company_name: doom.is
 # this appears in the footer
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -102,13 +102,14 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
+- doomis_sidebar
 - home_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "Documentation for Resilience"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
