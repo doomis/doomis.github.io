@@ -8,21 +8,33 @@ entries:
     output: web
     folderitems:
 
-    - title: Getting Started
+    - title: Get Started
       url: /index.html
       output: web
-
-  - title: Products
-    output: web
-    folderitems:
 
     - title: News
       url: /news.html
       output: web
 
-    - title: Doom.is Documentation
+  - title: Knowledge
+    output: web
+    folderitems:
+
+    - title: The Basics
+      url: /
+      output: web
+
+    - title: Building Blocks
+      url: /
+      output: web
+
+    - title: Writing Docs
       url: /docs.html
       output: web
+
+  - title: Deprecated
+    output: web
+    folderitems:
 
     - title: Theme instructions
       url: /mydoc_introduction.html
