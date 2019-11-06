@@ -10,6 +10,7 @@ entries:
 
     - title: Getting Started
       url: /index.html
+      output: web
 
   - title: Products
     output: web
