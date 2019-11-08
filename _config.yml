@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "doom.is."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "developers"
+name                     : "doom.is"
 description              : "Documentation for Resilience"
 url                      : https://doom.is # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
