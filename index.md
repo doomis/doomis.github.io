@@ -15,50 +15,108 @@ header:
 
 </dl>
 ## Get Started with Resilient Systems
-<div class="row">
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-puzzle-piece fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Basics</h4>
-                    <p>Start learning about and participating in resilient systems</p>
-                    <a href="/basics_intro.html" class="btn btn-primary">Get Started!</a>
-                </div>
+<div class="feature__wrapper">
+
+
+
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+
+          <div class="archive__item-teaser">
+          <span class="fa-stack fa-5x">
+                <i class="fa fa-square fa-stack-2x text-warning"></i>
+                <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
+          </span>
+
+          </div>
+
+
+        <div class="archive__item-body">
+
+            <h2 class="archive__item-title">Basics</h2>
+
+
+
+            <div class="archive__item-excerpt">
+              <p>Start learning about and participating in resilient systems</p>
+
             </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--warning">Read More</a></p>
+
+
+
         </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Build</h4>
-                    <p>Help create the decentralized alternatives</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
-                </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+
+          <div class="archive__item-teaser">
+          <span class="fa-stack fa-5x">
+                <i class="fa fa-square fa-stack-2x text-warning"></i>
+                <i class="fa fa-tools fa-stack-1x fa-inverse"></i>
+          </span>
+
+          </div>
+
+
+        <div class="archive__item-body">
+
+            <h2 class="archive__item-title">Build</h2>
+
+
+
+            <div class="archive__item-excerpt">
+              <p>Help create the decentralized alternatives</p>
+
             </div>
+
+
+
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Read More</a></p>
+
         </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Write</h4>
-                    <p>Contribute documentation, helping others build resilience</p>
-                    <a href="docs" class="btn btn-primary">Learn How</a>
-                </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+
+          <div class="archive__item-teaser">
+          <span class="fa-stack fa-5x">
+                <i class="fa fa-square fa-stack-2x text-warning"></i>
+                <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
+          </span>
+
+          </div>
+
+
+        <div class="archive__item-body">
+
+            <h2 class="archive__item-title">Write</h2>
+
+
+
+            <div class="archive__item-excerpt">
+              <p>Contribute documentation, helping others build resilience</p>
+
             </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--info">Read More</a></p>
+
+
+
         </div>
+      </div>
+    </div>
+
+
 </div>
