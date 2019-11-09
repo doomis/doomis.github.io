@@ -5,15 +5,8 @@ header:
   overlay_image: /assets/images/Destruction.jpg
   overlay_filter: rgba(128,0,0,0.5)
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "News"
-    excerpt: "Updates on our latest additions and features"
-    url: "#test-link"
-    btn_label: "View News"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    alt: "<span class="fa-stack fa-5x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-puzzle-piece fa-stack-1x fa-inverse"></i></span>"
     title: "Basics"
     excerpt: "Start learning about and participating in resilient systems"
     url: "#test-link"
@@ -43,7 +36,6 @@ feature_row:
 <dd>In context, the sustained ability of a <a href="https://en.wikipedia.org/wiki/Community_resilience">community</a> to utilize available resources (energy, communication, transportation, food, etc.) to respond to, withstand, and recover from adverse situations. This typically means there are measures in place that a community will follow, such as the distribution of volunteers, and the access to <em>knowledge</em> and <em>resources</em> necessary to rebuild.</dd>
 
 </dl>
-This is one repository of knowledge.
 
-##Get Started with Resilient Systems
+## Get Started with Resilient Systems
 {% include feature_row %}
