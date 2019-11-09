@@ -26,8 +26,8 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
-                <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-cubes fa-stack-2x fa-inverse"></i>
           </span>
 
           </div>
@@ -43,7 +43,7 @@ header:
               <p>Start learning about and participating in resilient systems</p>
 
             </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--warning">Read More</a></p>
+            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--danger">Read More</a></p>
 
 
 
@@ -59,8 +59,8 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-2x text-warning"></i>
-                <i class="fa fa-tools fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-tools fa-stack-2x fa-inverse"></i>
           </span>
 
           </div>
@@ -79,7 +79,7 @@ header:
 
 
 
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Read More</a></p>
+            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Read More</a></p>
 
         </div>
       </div>
@@ -93,8 +93,8 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-2x text-warning"></i>
-                <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-edit fa-stack-2x fa-inverse"></i>
           </span>
 
           </div>
@@ -110,7 +110,7 @@ header:
               <p>Contribute documentation, helping others build resilience</p>
 
             </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--info">Read More</a></p>
+            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--info">Read More</a></p>
 
 
 
