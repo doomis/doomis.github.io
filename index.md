@@ -39,11 +39,11 @@ header:
 
 
 
-            <div class="archive__item-excerpt">
+            <div class="archive__item-excerpt text-justify">
               <p>Start learning about and participating in resilient systems</p>
 
             </div>
-            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--danger">Read More</a></p>
+            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--success">Get Started!</a></p>
 
 
 
@@ -72,7 +72,7 @@ header:
 
 
 
-            <div class="archive__item-excerpt">
+            <div class="archive__item-excerpt text-justify">
               <p>Help create the decentralized alternatives</p>
 
             </div>
@@ -106,11 +106,11 @@ header:
 
 
 
-            <div class="archive__item-excerpt">
+            <div class="archive__item-excerpt text-justify">
               <p>Contribute documentation, helping others build resilience</p>
 
             </div>
-            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--info">Read More</a></p>
+            <p class="text-center"><a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Read More</a></p>
 
 
 
