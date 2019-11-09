@@ -6,21 +6,21 @@ header:
   overlay_filter: rgba(128,0,0,0.5)
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "<span class="fa-stack fa-5x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-puzzle-piece fa-stack-1x fa-inverse"></i></span>"
+    alt: ""
     title: "Basics"
     excerpt: "Start learning about and participating in resilient systems"
     url: "#test-link"
     btn_label: "Get Started!"
     btn_class: "btn--success"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    alt: ""
     title: "Build"
     excerpt: "Help create the decentralized alternatives"
     url: "#test-link"
     btn_label: "Learn More"
     btn_class: "btn--info"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    alt: ""
     title: "Write"
     excerpt: "Contribute documentation, helping others build resilience"
     url: "#test-link"
