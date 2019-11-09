@@ -26,8 +26,8 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-4x" style="color:#800"></i>
-                <i class="fa fa-cubes fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
+                <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
           </span>
 
           </div>
