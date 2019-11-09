@@ -26,7 +26,7 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-cubes fa-stack-2x fa-inverse"></i>
           </span>
 
@@ -59,7 +59,7 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-tools fa-stack-2x fa-inverse"></i>
           </span>
 
@@ -93,7 +93,7 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-5x">
-                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
+                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-edit fa-stack-2x fa-inverse"></i>
           </span>
 
