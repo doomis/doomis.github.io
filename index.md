@@ -25,9 +25,9 @@ header:
       <div class="archive__item">
 
           <div class="archive__item-teaser">
-          <span class="fa-stack fa-5x">
+          <span class="fa-stack fa-6x">
                 <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
-                <i class="fa fa-cubes fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
           </span>
 
           </div>
@@ -35,7 +35,7 @@ header:
 
         <div class="archive__item-body">
 
-            <h2 class="archive__item-title">Basics</h2>
+            <h2 class="archive__item-title text-center">Basics</h2>
 
 
 
@@ -58,9 +58,9 @@ header:
       <div class="archive__item">
 
           <div class="archive__item-teaser">
-          <span class="fa-stack fa-5x">
+          <span class="fa-stack fa-6x">
                 <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
-                <i class="fa fa-tools fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-tools fa-stack-1x fa-inverse"></i>
           </span>
 
           </div>
@@ -68,7 +68,7 @@ header:
 
         <div class="archive__item-body">
 
-            <h2 class="archive__item-title">Build</h2>
+            <h2 class="archive__item-title text-center">Build</h2>
 
 
 
@@ -93,8 +93,8 @@ header:
 
           <div class="archive__item-teaser">
           <span class="fa-stack fa-6x">
-                <i class="fa fa-square fa-stack-3x" style="color:#800;"></i>
-                <i class="fa fa-edit fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
+                <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
           </span>
 
           </div>
