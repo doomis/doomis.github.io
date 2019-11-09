@@ -6,33 +6,33 @@ header:
   overlay_filter: rgba(128,0,0,0.5)
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "News"
-    excerpt: "Updates on our latest additions and features"
-    url: "#test-link"
-    btn_label: "View News"
-    btn_class: "btn--primary"
+      alt: "placeholder image 1"
+      title: "News"
+      excerpt: "Updates on our latest additions and features"
+      url: "#test-link"
+      btn_label: "View News"
+      btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Basics"
-    excerpt: "Start learning about and participating in resilient systems"
-    url: "#test-link"
-    btn_label: "Get Started!"
-    btn_class: "btn--success"
-- image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Build"
-    excerpt: "Help create the decentralized alternatives"
-    url: "#test-link"
-    btn_label: "Learn More"
-    btn_class: "btn--info"
-- image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Write"
-    excerpt: "Contribute documentation, helping others build resilience"
-    url: "#test-link"
-    btn_label: "The Process"
-    btn_class: "btn--warning"    
+      alt: "placeholder image 2"
+      title: "Basics"
+      excerpt: "Start learning about and participating in resilient systems"
+      url: "#test-link"
+      btn_label: "Get Started!"
+      btn_class: "btn--success"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+      alt: "placeholder image 2"
+      title: "Build"
+      excerpt: "Help create the decentralized alternatives"
+      url: "#test-link"
+      btn_label: "Learn More"
+      btn_class: "btn--info"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+      alt: "placeholder image 2"
+      title: "Write"
+      excerpt: "Contribute documentation, helping others build resilience"
+      url: "#test-link"
+      btn_label: "The Process"
+      btn_class: "btn--warning"    
 ---
 <dl>
 
