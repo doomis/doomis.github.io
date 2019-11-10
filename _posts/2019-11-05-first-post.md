@@ -1,6 +1,7 @@
 ---
 title:  "Welcome to doom.is!"
 categories: news
+date: "2019-11-05 00:00"
 ---
 
 

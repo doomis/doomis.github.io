@@ -1,6 +1,6 @@
 ---
 title: "Progress Continues"
-date: '2019-11-06 17:19'
+date: "2019-11-06 17:19"
 categories: news
 tags: [news]
 ---

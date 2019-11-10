@@ -1,6 +1,7 @@
 ---
 title:  "Doom.is Created"
 categories: news
+date: "2019-11-04 00:00"
 ---
 
 
