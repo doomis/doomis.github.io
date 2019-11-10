@@ -1,7 +1,6 @@
 ---
 title:  "Welcome to doom.is!"
-categories: news doom update
-tags: [news]
+categories: news
 ---
 
 

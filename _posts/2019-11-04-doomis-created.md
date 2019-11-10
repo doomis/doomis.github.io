@@ -1,7 +1,6 @@
 ---
 title:  "Doom.is Created"
-categories: news doom update
-tags: [news]
+categories: news
 ---
 
 

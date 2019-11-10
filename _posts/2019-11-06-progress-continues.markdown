@@ -1,7 +1,7 @@
 ---
 title: "Progress Continues"
 date: '2019-11-06 17:19'
-categories: news doom update
+categories: news
 tags: [news]
 ---
 ## Progress Continues
