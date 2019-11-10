@@ -24,7 +24,7 @@ header:
     <div class="feature__item">
       <div class="archive__item">
 
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser text-center">
           <span class="fa-stack fa-6x">
                 <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
@@ -57,7 +57,7 @@ header:
     <div class="feature__item">
       <div class="archive__item">
 
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser text-center">
           <span class="fa-stack fa-6x">
                 <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-tools fa-stack-1x fa-inverse"></i>
@@ -91,7 +91,7 @@ header:
     <div class="feature__item">
       <div class="archive__item">
 
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser text-center">
           <span class="fa-stack fa-6x">
                 <i class="fa fa-square fa-stack-2x" style="color:#800;"></i>
                 <i class="fa fa-edit fa-stack-1x fa-inverse"></i>
