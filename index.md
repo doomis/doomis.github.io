@@ -9,10 +9,10 @@ header:
 ---
 <dl>
 <dt id="Collapse">Collapse</dt>
-<dd>The often irreversible reduction of complexity in complex or large distributed systems.  Noteworthy examples exist in <a href="https://en.wikipedia.org/wiki/Ecosystem_collapse">ecosystems</a>, <a href="https://en.wikipedia.org/wiki/Economic_collapse">economies</a>, and <a href="https://en.wikipedia.org/wiki/Societal_collapse">societies</a>.</dd>
+<dd>The involuntary and often irreversible reduction of complexity in large distributed systems.  Noteworthy examples exist in <a href="https://en.wikipedia.org/wiki/Ecosystem_collapse" rel="noopener noreferrer" target="_blank">ecosystems</a>, <a href="https://en.wikipedia.org/wiki/Economic_collapse" rel="noopener noreferrer" target="_blank">economies</a>, and <a href="https://en.wikipedia.org/wiki/Societal_collapse" rel="noopener noreferrer" target="_blank">societies</a>.</dd>
 
-<dt id="Resilience">Resilience</dt>
-<dd>In context, the sustained ability of a <a href="https://en.wikipedia.org/wiki/Community_resilience">community</a> to utilize available resources (energy, communication, transportation, food, etc.) to respond to, withstand, and recover from adverse situations. This typically means there are measures in place that a community will follow, such as the distribution of volunteers, and the access to <em>knowledge</em> and <em>resources</em> necessary to rebuild.</dd>
+<dt id="Resilience">Community Resilience</dt>
+<dd>The sustained ability of a <a href="https://en.wikipedia.org/wiki/Community_resilience" rel="noopener noreferrer" target="_blank">community</a> to utilize available resources (energy, communication, transportation, food, etc.) to respond to, withstand, and recover from adverse situations. This typically means there are measures in place that a community will follow, such as the distribution of volunteers, and the access to <em>knowledge</em> and <em>resources</em> necessary to rebuild.</dd>
 </dl>
 ## Get Started with Resilient Systems
 <div class="feature__wrapper">
